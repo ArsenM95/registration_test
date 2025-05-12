@@ -1,11 +1,11 @@
-# 🧪 User Registration Test (Python + Selenium)
+# User Registration Test (Python + Selenium)
 
 This project contains both manual and automated test cases for the **user registration feature** of the [automationexercise.com](https://automationexercise.com) web application.  
 It simulates a real-world testing scenario suitable for a **Middle QA Engineer** portfolio.
 
 ---
 
-## 📌 Features
+## Features
 
 - 5 clearly written manual test cases covering:
   - Valid registration
@@ -20,7 +20,7 @@ It simulates a real-world testing scenario suitable for a **Middle QA Engineer**
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 registration_test/
 ├── registration_test.py # Selenium automation script
@@ -31,7 +31,7 @@ registration_test/
 
 ---
 
-## 🧪 Tech Stack
+## Tech Stack
 
 - Python 3.9+
 - Selenium WebDriver
@@ -40,7 +40,7 @@ registration_test/
 
 ---
 
-## 🚀 How to Run the Script
+## How to Run the Script
 
 1. Install required packages:
 ```bash
@@ -66,9 +66,9 @@ Full details in test_cases.md
 
 ---
 
-## 📁 Projects in This Repository
+## Projects in This Repository
 
-### 🧪 1. Registration Test (automationexercise.com)
+### 1. Registration Test (automationexercise.com)
 
 Includes manual test cases and Selenium automation for user registration form.  
 Covers valid input, invalid email, mismatched passwords, and duplicate email handling.
